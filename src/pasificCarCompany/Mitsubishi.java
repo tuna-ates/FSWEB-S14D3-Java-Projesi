@@ -1,4 +1,4 @@
-package PasificCarCompany;
+package pasificCarCompany;
 
 public class Mitsubishi extends Car{
     public Mitsubishi(int cylinders, String name) {

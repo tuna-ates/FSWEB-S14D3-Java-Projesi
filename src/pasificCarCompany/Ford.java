@@ -1,8 +1,8 @@
-package PasificCarCompany;
+package pasificCarCompany;
 
-public class Holden extends  Car {
+public class Ford extends Car{
 
-    public Holden(int cylinders, String name) {
+    public Ford(int cylinders, String name) {
         super(cylinders, name);
     }
 
@@ -20,4 +20,5 @@ public class Holden extends  Car {
     public void brake() {
         System.out.println("the "+super.getName()+" is braking");
     }
+
 }

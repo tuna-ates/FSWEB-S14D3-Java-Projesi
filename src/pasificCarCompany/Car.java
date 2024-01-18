@@ -1,4 +1,4 @@
-package PasificCarCompany;
+package pasificCarCompany;
 
 import java.util.Objects;
 

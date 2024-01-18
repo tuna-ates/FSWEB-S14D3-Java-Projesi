@@ -1,6 +1,6 @@
-import PasificCarCompany.Car;
-import PasificCarCompany.Ford;
-import PasificCarCompany.Mitsubishi;
+import pasificCarCompany.Car;
+import pasificCarCompany.Ford;
+import pasificCarCompany.Mitsubishi;
 
 public class Main {
     public static void main(String[] args) {
